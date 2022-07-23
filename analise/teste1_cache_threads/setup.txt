@@ -1,5 +1,0 @@
-done with 1k graph nodes on a random walk 
-each test will be an average of 100 runs
-fied number of total cycles at 1e9
-100 cycles per minithread
-1 10 100 1000 10000 100000 minithreads

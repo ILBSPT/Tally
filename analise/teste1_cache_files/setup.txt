@@ -1,5 +1,0 @@
-done with 16k graph nodes on a random walk ~2.8mb of graph
-each test will be an average of 100 runs
-4000 threads
-1000 cycles
-10000 metacycles
