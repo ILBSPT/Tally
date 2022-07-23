@@ -10,7 +10,11 @@ Cmake builds gcc-tally.cpp plugin and minithread.c to librarys then builds main.
 run:
 	
 > cd build
+
 > (cmake .. if new files are in /modules as cmake make file can be outdated)
+
 > cmake --build .
+
 > cd ..
+
 > ./bin/main
