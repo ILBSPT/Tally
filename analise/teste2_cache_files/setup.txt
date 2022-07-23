@@ -1,0 +1,5 @@
+done with 1k graph nodes on a random walk 
+each test will be an average of 10 runs
+4000 threads
+1000 cycles
+10000 metacycles

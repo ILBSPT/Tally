@@ -1,0 +1,52 @@
+umber_of_metacycles: 1
+number_of_cycles: 1000000000
+time: 1047
+work: 1000000004
+
+number_of_metacycles: 10
+number_of_cycles: 100000000
+time: 3916
+work: 1000000080
+
+number_of_metacycles: 100
+number_of_cycles: 10000000
+time: 1051
+work: 1000000800
+
+number_of_metacycles: 1000
+number_of_cycles: 1000000
+time: 1052
+work: 1000008000
+
+number_of_metacycles: 10000
+number_of_cycles: 100000
+time: 1051
+work: 1000080000
+
+number_of_metacycles: 100000
+number_of_cycles: 10000
+time: 1077
+work: 1000800000
+
+number_of_metacycles: 1000000
+number_of_cycles: 1000
+time: 1237
+work: 1008000000
+
+number_of_metacycles: 10000000
+number_of_cycles: 100
+time: 3001
+work: 1080000000
+
+number_of_metacycles: 100000000
+number_of_cycles: 10
+time: 18102
+work: 1200000000
+
+number_of_metacycles: 1000000000
+number_of_cycles: 1
+time: 165825
+work: 6000000000
+
+
+5x mais trabalho 8.8x menos performance

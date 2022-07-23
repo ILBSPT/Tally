@@ -1,0 +1,70 @@
+number_of_metacycles: 1
+number_of_cycles: 1000000000
+time: 1048
+total cycles: 1
+cycles done: 1
+cycles skipeed: 0
+
+number_of_metacycles: 10
+number_of_cycles: 100000000
+time: 2604
+total cycles: 10
+cycles done: 10
+cycles skipeed: 0
+
+number_of_metacycles: 100
+number_of_cycles: 10000000
+time: 1053
+total cycles: 100
+cycles done: 100
+cycles skipeed: 0
+
+number_of_metacycles: 1000
+number_of_cycles: 1000000
+time: 1051
+total cycles: 1000
+cycles done: 1000
+cycles skipeed: 0
+
+number_of_metacycles: 10000
+number_of_cycles: 100000
+time: 1051
+total cycles: 10000
+cycles done: 10000
+cycles skipeed: 0
+
+number_of_metacycles: 100000
+number_of_cycles: 10000
+time: 1076
+total cycles: 100000
+cycles done: 100000
+cycles skipeed: 0
+
+number_of_metacycles: 1000000
+number_of_cycles: 1000
+time: 1283
+total cycles: 1000000
+cycles done: 1000000
+cycles skipeed: 0
+
+number_of_metacycles: 10000000
+number_of_cycles: 100
+time: 3156
+total cycles: 10000000
+cycles done: 10000000
+cycles skipeed: 0
+
+number_of_metacycles: 100000000
+number_of_cycles: 10
+time: 18509
+total cycles: 100000000
+cycles done: 87500001
+cycles skipeed: 12499999
+
+number_of_metacycles: 1000000000
+number_of_cycles: 1
+time: 85315
+total cycles: 1000000000
+cycles done: 166666669
+cycles skipeed: 833333331
+

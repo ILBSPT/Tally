@@ -1,0 +1,184 @@
+number_of_metacycles: 2
+number_of_cycles: 4194304
+time: 1172
+total metacycles: 2
+metacyles done: 256
+metacycles skipped: 0
+work done: 1073743872
+
+number_of_metacycles: 4
+number_of_cycles: 2097152
+time: 1165
+total metacycles: 4
+metacyles done: 512
+metacycles skipped: 0
+work done: 1073743872
+
+number_of_metacycles: 8
+number_of_cycles: 1048576
+time: 1171
+total metacycles: 8
+metacyles done: 1024
+metacycles skipped: 0
+work done: 1073750016
+
+number_of_metacycles: 16
+number_of_cycles: 524288
+time: 1165
+total metacycles: 16
+metacyles done: 2048
+metacycles skipped: 0
+work done: 1073750016
+
+number_of_metacycles: 32
+number_of_cycles: 262144
+time: 1177
+total metacycles: 32
+metacyles done: 4096
+metacycles skipped: 0
+work done: 1073774592
+
+number_of_metacycles: 64
+number_of_cycles: 131072
+time: 1167
+total metacycles: 64
+metacyles done: 8192
+metacycles skipped: 0
+work done: 1073774592
+
+number_of_metacycles: 128
+number_of_cycles: 65536
+time: 1172
+total metacycles: 128
+metacyles done: 16384
+metacycles skipped: 0
+work done: 1073872896
+
+number_of_metacycles: 256
+number_of_cycles: 32768
+time: 1177
+total metacycles: 256
+metacyles done: 32768
+metacycles skipped: 0
+work done: 1073872896
+
+number_of_metacycles: 512
+number_of_cycles: 16384
+time: 1182
+total metacycles: 512
+metacyles done: 65536
+metacycles skipped: 0
+work done: 1074266112
+
+number_of_metacycles: 1024
+number_of_cycles: 8192
+time: 1202
+total metacycles: 1024
+metacyles done: 131072
+metacycles skipped: 0
+work done: 1074266112
+
+number_of_metacycles: 2048
+number_of_cycles: 4096
+time: 1223
+total metacycles: 2048
+metacyles done: 261760
+metacycles skipped: 384
+work done: 1074262528
+
+number_of_metacycles: 4096
+number_of_cycles: 2048
+time: 1288
+total metacycles: 4096
+metacyles done: 523392
+metacycles skipped: 896
+work done: 1074000000
+
+number_of_metacycles: 8192
+number_of_cycles: 1024
+time: 1388
+total metacycles: 8192
+metacyles done: 1040512
+metacycles skipped: 8064
+work done: 1073807872
+
+number_of_metacycles: 16384
+number_of_cycles: 512
+time: 1594
+total metacycles: 16384
+metacyles done: 2080896
+metacycles skipped: 16256
+work done: 1073741952
+
+number_of_metacycles: 32768
+number_of_cycles: 256
+time: 2007
+total metacycles: 32768
+metacyles done: 4067328
+metacycles skipped: 126976
+work done: 1073774592
+
+number_of_metacycles: 65536
+number_of_cycles: 128
+time: 2817
+total metacycles: 65536
+metacyles done: 8134528
+metacycles skipped: 254080
+work done: 1073757312
+
+number_of_metacycles: 131072
+number_of_cycles: 64
+time: 4165
+total metacycles: 131072
+metacyles done: 14913152
+metacycles skipped: 1864064
+work done: 1073746432
+
+number_of_metacycles: 262144
+number_of_cycles: 32
+time: 6961
+total metacycles: 262144
+metacyles done: 29826176
+metacycles skipped: 3728256
+work done: 1073741952
+
+number_of_metacycles: 524288
+number_of_cycles: 16
+time: 9668
+total metacycles: 524288
+metacyles done: 44739328
+metacycles skipped: 22369536
+work done: 1073743872
+
+number_of_metacycles: 1048576
+number_of_cycles: 8
+time: 17722
+total metacycles: 1048576
+metacyles done: 89478528
+metacycles skipped: 44739200
+work done: 1073741952
+
+number_of_metacycles: 2097152
+number_of_cycles: 4
+time: 18603
+total metacycles: 2097152
+metacyles done: 89478528
+metacycles skipped: 178956928
+work done: 1073741952
+
+number_of_metacycles: 4194304
+number_of_cycles: 2
+time: 28368
+total metacycles: 4194304
+metacyles done: 134217856
+metacycles skipped: 402653056
+work done: 1073741952
+
+number_of_metacycles: 8388608
+number_of_cycles: 1
+time: 39383
+total metacycles: 8388608
+metacyles done: 178957056
+metacycles skipped: 894784768
+work done: 1073741952
+
